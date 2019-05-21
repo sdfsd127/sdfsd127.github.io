@@ -1,5 +1,6 @@
 body {
 	background-color: #EEE;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -22,6 +23,7 @@ h1 {
 	background-color: #66CCFF;
 	color: white;
 	text-align: center;
+	padding: 10px;
 }
 
 #content {
@@ -49,4 +51,8 @@ h1 {
 
 #footer {
 	clear: both;
+	padding: 10px;
+	background-color: #999999;
+	color: white;
+	text-align: right;
 }
