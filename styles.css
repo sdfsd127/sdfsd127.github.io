@@ -26,6 +26,10 @@ h1 {
 	padding: 10px;
 }
 
+#header.additionalHead {
+	
+}
+
 #content {
 	padding: 10px 10px 10px 10px;
 }
@@ -38,6 +42,7 @@ h1 {
 #nav.selected {
 	font-weight: bold;
 	text-align: center;
+
 }
 
 #main {
