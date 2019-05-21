@@ -37,6 +37,7 @@ h1 {
 
 #nav.selected {
 	font-weight: bold;
+	text-align: center;
 }
 
 #main {
