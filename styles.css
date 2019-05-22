@@ -20,28 +20,32 @@ h1 {
 }
 
 #header {
-	background-color: #66CCFF;
+	background-color: #6DA3F9;
 	color: white;
 	text-align: center;
-	padding: 10px 10px 5px 10px;
+	padding: 0px 0px 0px 0px;
 }
 
-#header.additionalHeader {
-	padding: 5px 10px 10px 10px;
+#header.subHead {
+	padding: 0px 0px 5px 0px;
+}
+
+#nav {
+	color: #F2A56A;
+	text-align: center;
+}
+
+#nav.selected {
+	font-weight: bold;
 }
 
 #content {
-	width: 1820px;
+	width: 1920px;
 	padding: 10px 10px 10px 10px;
 }
 
 #main {
-	width: 1820px;
-}
-
-#main.selected {
-	font-weight: bold;
-	text-align: center;
+	width: 1920px;
 }
 
 #footer {
