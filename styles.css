@@ -12,9 +12,8 @@ h1 {
 	margin: 0px;
 }
 
-img {
-	width: 400px;
-	padding: 2px 40px 20px 40px;
+h4 {
+	margin: 0px;
 }
 
 #container {
@@ -50,10 +49,17 @@ img {
 #content {
 	width: 1920px;
 	padding: 10px 10px 10px 10px;
+	text-align: center;
 }
 
 #main {
 	width: 1920px;
+}
+
+.case {
+	width: 400px;
+	height: 225px;
+	padding: 2px 40px 20px 40px;
 }
 
 #footer {
