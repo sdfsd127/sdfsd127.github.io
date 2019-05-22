@@ -35,8 +35,9 @@ h1 {
 	text-align: center;
 }
 
-#nav.selected {
+.selected {
 	font-weight: bold;
+	color: red;
 }
 
 #content {
