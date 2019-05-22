@@ -12,6 +12,11 @@ h1 {
 	margin: 0px;
 }
 
+img {
+	width: 400px;
+	padding: 2px 40px 20px 40px;
+}
+
 #container {
 	background-color: white;
 	width: 1920px;
@@ -31,13 +36,15 @@ h1 {
 }
 
 #nav {
-	color: #F2A56A;
+	padding: 10px 0px 10px 0px;
+	background-color: #4578CC;
 	text-align: center;
+	font-weight: bold;
 }
 
 .selected {
-	font-weight: bold;
-	color: red;
+	font-weight: bolder;
+	color: white;
 }
 
 #content {
