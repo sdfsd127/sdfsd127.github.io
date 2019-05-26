@@ -69,3 +69,20 @@ h4 {
 	color: white;
 	text-align: right;
 }
+
+#game-heading {
+	text-decoration: underline;
+	font-size: 25px;
+}
+
+#game-video {
+
+}
+
+#game-description {
+
+}
+
+#game-requirements {
+	text-align: center;
+}
